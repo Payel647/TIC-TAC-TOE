@@ -1,3 +1,1 @@
-using html css javascript
-
-## DEMO
+https://payel647.github.io/TIC-TAC-TOE/
